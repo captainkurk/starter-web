@@ -19,6 +19,8 @@ This is a simple web projectcan be on any web server.
 
 ## How to contribute
 
+Please fork this repository and then issue Pull Request for review.
+
 ### Copyright
 
 2020 Git.Training.
