@@ -5,6 +5,8 @@ This is a simple website project.
 
 ## Introduction
 
+This is example blah.
+
 ## Purpose
 
 Sample website with plenty of files for demos
