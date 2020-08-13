@@ -18,3 +18,7 @@ This is a simple web projectcan be on any web server.
 
 
 ## How to contribute
+
+### Copyright
+
+2020 Git.Training.
